@@ -34,28 +34,26 @@ Topics include:
 - Constraints
 - Tables and Relationships
 
-## 3. Java
-
-Java programs practiced as part of my programming coursework.
+## 3. OOPS in Java
 
 Topics include:
 
-- Basic Java Programs
-- Variables and Data Types
-- Conditional Statements
-- Loops
-- Arrays
 - Classes and Objects
 - Constructors
-- Method Overloading
+- Methods
+- Encapsulation
 - Inheritance
-- Other Java Programs
+- Polymorphism
+- Abstraction
+- Method Overloading
+- Method Overriding
+- Arrays and Strings
 
-Purpose
+## Purpose
 
 This repository is used to store and organize my college programming practice, assignments, and solved coding problems.
 
-Languages Used
+## Languages Used
 
 - C
 - SQL
