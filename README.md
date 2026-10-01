@@ -5,7 +5,7 @@ This repository contains the programs and coding solutions I practice as part of
 
 Subjects
 
-##1. DSA Using C
+## 1. DSA Using C
 
 Programs and implementations related to Data Structures and Algorithms using C.
 
@@ -20,7 +20,7 @@ Topics include:
 - Recursion
 - Other DSA programs
 
-##2. DBMS Using SQL
+## 2. DBMS Using SQL
 
 SQL programs and queries related to Database Management Systems.
 
@@ -34,7 +34,7 @@ Topics include:
 - Constraints
 - Tables and Relationships
 
-##3. Java
+## 3. Java
 
 Java programs practiced as part of my programming coursework.
 
